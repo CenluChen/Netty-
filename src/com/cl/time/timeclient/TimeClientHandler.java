@@ -1,4 +1,4 @@
-package com.cl.timeclient;
+package com.cl.time.timeclient;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;

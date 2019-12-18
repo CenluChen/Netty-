@@ -1,4 +1,4 @@
-package com.cl.timeserver;
+package com.cl.time.timeserver;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelFuture;

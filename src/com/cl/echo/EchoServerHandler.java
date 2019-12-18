@@ -1,4 +1,4 @@
-package com.cl;
+package com.cl.echo;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;

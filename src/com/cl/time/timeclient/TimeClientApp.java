@@ -1,4 +1,4 @@
-package com.cl.timeclient;
+package com.cl.time.timeclient;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
